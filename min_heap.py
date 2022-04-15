@@ -1,6 +1,5 @@
-# 堆小堆
-import  sys
-
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
 # 「最小堆」的实现
 import sys
 

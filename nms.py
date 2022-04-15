@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
 import numpy as np
 
 
@@ -5,7 +8,7 @@ def nms(bboxes, scores, thresthold):
     """
     通过边界线和对应的置信分数来计算nms
     :param bboxes: [(x1, y1, x2, y2)]
-    :param scores: [score]
+    :param scores: [score
     :param thresthold: 过滤阈值
     :return: 剩下的边框和置信分数
     """
