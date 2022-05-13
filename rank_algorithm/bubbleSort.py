@@ -10,6 +10,7 @@
 
 
 def bubbleSort(nums):
+    # 冒泡向后遍历
     n = len(nums)
     for i in range(n):
         # 找到第i+1大的数
