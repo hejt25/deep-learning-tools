@@ -4,7 +4,7 @@
 @Project ：deep-learning-tools 
 @File    ：multi_download_pic.py
 @IDE     ：PyCharm 
-@Author  ：何锦涛
+@Author  ：hejintao
 @Date    ：2022/4/20 19:21 
 """
 import pandas as pd

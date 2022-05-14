@@ -4,7 +4,7 @@
 @Project ：deep-learning-tools 
 @File    ：quickSort.py
 @IDE     ：PyCharm 
-@Author  ：何锦涛
+@Author  ：hejintao
 @Date    ：2022/5/14 00:11 
 """
 

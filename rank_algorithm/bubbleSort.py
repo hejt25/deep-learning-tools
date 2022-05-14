@@ -4,7 +4,7 @@
 @Project ：deep-learning-tools 
 @File    ：bubbleSort.py
 @IDE     ：PyCharm 
-@Author  ：何锦涛
+@Author  ：hejintao
 @Date    ：2022/5/13 23:14 
 """
 
