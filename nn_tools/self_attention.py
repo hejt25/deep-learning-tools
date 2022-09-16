@@ -15,6 +15,7 @@ import torch.nn as nn
 
 class SelfAttention(nn.Module):
     def __init__(self, d_model):
+        super(SelfAttention, self).__init__()
         self.d_model = d_model
         # 各权重矩阵
         self.w_q = nn.Linear(d_model, d_model, bias=False)
