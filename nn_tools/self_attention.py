@@ -21,7 +21,7 @@ class SelfAttention(nn.Module):
         self.w_k = nn.Linear(d_model, d_model, bias=False)
         self.w_v = nn.Linear(d_model, d_model, bias=False)
 
-    def forward(self,x):
+    def forward(self, x):
         batch, n, dim_q = x.shape
         assert dim_q == self.d_model
         q = self.w_q(x)
